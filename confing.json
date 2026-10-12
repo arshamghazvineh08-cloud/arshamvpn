@@ -1,0 +1,8 @@
+{
+  "project": "ArshamVPN",
+  "description": "V2Ray learning project",
+  "platforms": [
+    "Android",
+    "Windows"
+  ]
+}
